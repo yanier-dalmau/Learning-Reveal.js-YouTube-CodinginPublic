@@ -1,30 +1,44 @@
-<p align="center">
-  <a href="https://revealjs.com">
-  <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
-  </a>
-  <br><br>
-  <a href="https://github.com/hakimel/reveal.js/actions"><img src="https://github.com/hakimel/reveal.js/workflows/tests/badge.svg"></a>
-  <a href="https://slides.com/"><img src="https://static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
-</p>
+# Learning Reveal.js  
+  
+This repository contains my study project following the YouTube tutorial from the "Coding in Public" channel about Reveal.js, an HTML framework for creating interactive presentations.  
+  
+## Implemented Features  
+  
+- **Basic Slides**: Implementation of simple slides with horizontal transitions  
+- **Vertical Slides**: Creation of slides with vertical navigation  
+- **Gradient Backgrounds**: Application of radial gradient backgrounds  
+- **Presenter Notes**: Addition of private notes for the presenter  
+- **Markdown Content**: Use of Markdown to create slides more easily  
+- **Progress Bar**: Activation of the progress bar to show presentation progress  
+- **Multimedia Content**: Integration of YouTube videos  
+  
+## Technologies Used  
+  
+- Reveal.js v5.2.1  
+- HTML/CSS  
+- JavaScript  
+- Markdown  
+  
+## How to Run the Project  
+  
+1. Clone this repository  
+2. Install dependencies with `npm install`  
+3. Run the development server with `npm start`  
+4. Open your browser at `http://localhost:8000`  
 
-reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create beautiful presentations for free. Check out the live demo at [revealjs.com](https://revealjs.com/).
+Note: Points 2 and 3 are presented as an expanded form of the information, but they were not necessary for understanding the main topic.
 
-The framework comes with a powerful feature set including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX typesetting](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and an [extensive API](https://revealjs.com/api/).
-
----
-
-Want to create reveal.js presentation in a graphical editor? Try <https://slides.com>. It's made by the same people behind reveal.js.
-
----
-
-### Getting started
-- 🚀 [Install reveal.js](https://revealjs.com/installation)
-- 👀 [View the demo presentation](https://revealjs.com/demo)
-- 📖 [Read the documentation](https://revealjs.com/markup/)
-- 🖌 [Try the visual editor for reveal.js at Slides.com](https://slides.com/)
-- 🎬 [Watch the reveal.js video course (paid)](https://revealjs.com/course)
-
---- 
-<div align="center">
-  MIT licensed | Copyright © 2011-2024 Hakim El Hattab, https://hakim.se
-</div>
+## Recent Changes  
+  
+- Added support for YouTube videos (05/20/2025)  
+- Implemented Markdown content (05/19/2025)  
+- Added presenter notes (05/19/2025)  
+- Activated progress bar (05/19/2025)  
+- Implemented gradient backgrounds (05/19/2025)  
+- Created vertical slides (05/18/2025)  
+- Initial project setup (05/18/2025)  
+  
+## Resources  
+  
+- [Official Reveal.js Documentation](https://revealjs.com/)  
+- [YouTube Tutorial - Coding in Public](https://www.youtube.com/playlist?list=PLoqZcxvpWzzf_C8QgHC9XbA-bn18qJ-QV)
